@@ -1,0 +1,44 @@
+body{ background-image: url("white_roses.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.con{ width: 320px;
+      height: 350px;
+       
+      backdrop-filter: saturate(180%) blur(10px);
+      color:aliceblue;
+      border: 2px solid rgb(253, 249, 249);
+
+      border-radius: 25%;
+      text-align: center;
+      position: absolute;
+      top:185px;
+      left:565px;
+
+
+}
+#a{
+ margin: 12px;
+ 
+}
+#b{
+ margin:8px;
+}
+#c{
+    margin:8px;
+    display:inline;
+}
+#d{
+    margin:15px;
+}
+#e{
+    margin:20px;
+    
+}
+#lnk{
+    text-decoration: none;
+    color:rgb(249, 246, 246);
+   
+}
+
